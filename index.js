@@ -32,9 +32,9 @@ function viewCart() {
   } else if (cart.length === 1){
    
     return `In your cart, you have ${cart[cart.length - 1].itemName} at $${cart[cart.length - 1].itemPrice}.`
-  
-  
-}
+  } else if {
+    
+  }
 }
 
 function total() {
