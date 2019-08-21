@@ -50,7 +50,6 @@ function total() {
     totalPrice += cart[i].itemPrice;
   }
   return `Your total is ${totalPrice}`
-  
 }
 
 function removeFromCart(item) {
